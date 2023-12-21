@@ -4,8 +4,7 @@
   </a>
 </div>
 
-
-Drag the link above to your bookmarks bar in any browser. Then, when you're viewing a movie or a show, click it to be transported to the DMM movie or show page.
+## Drag the link above to your bookmarks bar in any browser. Then, when you're viewing a movie or a show, click it to be transported to the DMM movie or show page.
 
 <!--
 https://github.com/yowmamasita
